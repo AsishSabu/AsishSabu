@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Asish Sabu</h1>
 <h3 align="center">A Dedicated MERN Stack Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?t=st=1734793551~exp=1734797151~hmac=f752deebd8c61ec24d4e64ac585503284351605bd630fb1dac9e49e3a623a445&w=740" />
+<img align="right" alt="Coding" width="100%" max-width="400px" src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?t=st=1734793551~exp=1734797151~hmac=f752deebd8c61ec24d4e64ac585503284351605bd630fb1dac9e49e3a623a445&w=740" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=asishsabu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
@@ -13,8 +13,6 @@
 - 🌱 I’m currently Mastering **React**
 - 💬 Ask me about **React, Node, Express, MongoDB**
 - 📫 How to reach me: **ashiasish1858@gmail.com**
-
-
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -28,8 +26,6 @@
      <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=008000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
 </p>
-
-
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <div align="left">
@@ -83,16 +79,17 @@
   </a>
 </div>
 
-<hr style="border: 0; border-top: px solid #cjj;" />
+<hr style="border: 0; border-top: 1px solid #cjj;" />
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<div><p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AsishSabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</p>
-
-<p align="right">
+<div>
+  <p align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=AsishSabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  </p>
+  <p align="right">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AsishSabu&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p></div>
+  </p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsishSabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
@@ -103,19 +100,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AsishSabu&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-
-
-
-
-
-
-
-
-
 <h3 align="left">🔝 Top Contributed Repo:</h3>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AsishSabu&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
-
-
-
