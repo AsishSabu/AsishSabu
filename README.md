@@ -86,13 +86,14 @@
 <hr style="border: 0; border-top: px solid #cjj;" />
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
+<div><p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AsishSabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
 
 <p align="right">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AsishSabu&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
+</p></div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsishSabu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
